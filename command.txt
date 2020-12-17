@@ -1,0 +1,11 @@
+dir
+clear  or cls
+cd /
+git init
+cd .git
+git status
+git add index.html => follow fille
+git status
+git rm --cached index.html =>  dont follow file 
+git commit -m "first commit"
+git add .
