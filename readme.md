@@ -1,3 +1,5 @@
+# git command
+
 dir
 clear  or cls
 cd /
