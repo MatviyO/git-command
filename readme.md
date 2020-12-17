@@ -18,3 +18,7 @@ git checkout test => change branch
 git merge test => merge test branch to master
 git config --global user.name
 git config --global user.name "Oleh" => new name
+git config --global user.email
+git config --global user.email "new email"
+git remote add origin https://github.com/MatviyO/git-command.git
+git push -u origin master
