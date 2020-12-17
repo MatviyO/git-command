@@ -15,3 +15,6 @@ git branch
 git branch test => create branch
 git branch -D test => delete branch
 git checkout test => change branch
+git merge test => merge test branch to master
+git config --global user.name
+git config --global user.name "Oleh" => new name
