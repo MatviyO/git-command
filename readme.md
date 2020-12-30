@@ -22,3 +22,4 @@ git config --global user.email
 git config --global user.email "new email"
 git remote add origin https://github.com/MatviyO/git-command.git
 git push -u origin master
+
